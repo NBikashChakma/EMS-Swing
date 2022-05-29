@@ -1,0 +1,185 @@
+**********Windows Terminal***********
+
+PS C:\Users> cd D:\NetBeansProjects\EMS31\
+
+PS D:\NetBeansProjects\EMS31> git status
+
+PS D:\NetBeansProjects\EMS31> git commit -m "first commit"
+
+*** Please tell me who you are.
+Run
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+
+PS D:\NetBeansProjects\EMS31> git config --global user.email natunbikashc67@gmail.com
+PS D:\NetBeansProjects\EMS31> git config --global user.name NBikashChakma
+
+
+PS D:\NetBeansProjects\EMS31> git add .
+
+warning: LF will be replaced by CRLF in build/classes/Admin_Login.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in build/classes/Employee.form.
+warning: LF will be replaced by CRLF in build/classes/Job_Dept.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in build/classes/Payroll.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in build/classes/Salary.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in dist/README.TXT.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Admin_Login.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Admin_Login.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Employee.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Employee.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Job_Dept.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Job_Dept.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Payroll.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Payroll.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Salary.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/Salary.java.
+The file will have its original line endings in your working directory
+
+
+
+PS D:\NetBeansProjects\EMS31> git commit -m "first commit"
+
+[main (root-commit) f99547a] first commit
+ 89 files changed, 10748 insertions(+)
+ create mode 100644 build.xml
+ create mode 100644 build/built-jar.properties
+ create mode 100644 build/classes/.netbeans_automatic_build
+ create mode 100644 build/classes/.netbeans_update_resources
+ create mode 100644 build/classes/Admin_Login$1.class
+ create mode 100644 build/classes/Admin_Login$2.class
+ create mode 100644 build/classes/Admin_Login$3.class
+ create mode 100644 build/classes/Admin_Login$4.class
+ create mode 100644 build/classes/Admin_Login.class
+ create mode 100644 build/classes/Admin_Login.form
+ create mode 100644 build/classes/Employee$1.class
+ create mode 100644 build/classes/Employee$10.class
+ create mode 100644 build/classes/Employee$11.class
+ create mode 100644 build/classes/Employee$2.class
+ create mode 100644 build/classes/Employee$3.class
+ create mode 100644 build/classes/Employee$4.class
+ create mode 100644 build/classes/Employee$5.class
+ create mode 100644 build/classes/Employee$6.class
+ create mode 100644 build/classes/Employee$7.class
+ create mode 100644 build/classes/Employee$8.class
+ create mode 100644 build/classes/Employee$9.class
+ create mode 100644 build/classes/Employee.class
+ create mode 100644 build/classes/Employee.form
+ create mode 100644 build/classes/Job_Dept$1.class
+ create mode 100644 build/classes/Job_Dept$10.class
+ create mode 100644 build/classes/Job_Dept$11.class
+ create mode 100644 build/classes/Job_Dept$2.class
+ create mode 100644 build/classes/Job_Dept$3.class
+ create mode 100644 build/classes/Job_Dept$4.class
+ create mode 100644 build/classes/Job_Dept$5.class
+ create mode 100644 build/classes/Job_Dept$6.class
+ create mode 100644 build/classes/Job_Dept$7.class
+ create mode 100644 build/classes/Job_Dept$8.class
+ create mode 100644 build/classes/Job_Dept$9.class
+ create mode 100644 build/classes/Job_Dept.class
+ create mode 100644 build/classes/Job_Dept.form
+ create mode 100644 build/classes/Payroll$1.class
+ create mode 100644 build/classes/Payroll$10.class
+ create mode 100644 build/classes/Payroll$11.class
+ create mode 100644 build/classes/Payroll$2.class
+ create mode 100644 build/classes/Payroll$3.class
+ create mode 100644 build/classes/Payroll$4.class
+ create mode 100644 build/classes/Payroll$5.class
+ create mode 100644 build/classes/Payroll$6.class
+ create mode 100644 build/classes/Payroll$7.class
+ create mode 100644 build/classes/Payroll$8.class
+ create mode 100644 build/classes/Payroll$9.class
+ create mode 100644 build/classes/Payroll.class
+ create mode 100644 build/classes/Payroll.form
+ create mode 100644 build/classes/Salary$1.class
+ create mode 100644 build/classes/Salary$10.class
+ create mode 100644 build/classes/Salary$11.class
+ create mode 100644 build/classes/Salary$2.class
+ create mode 100644 build/classes/Salary$3.class
+ create mode 100644 build/classes/Salary$4.class
+ create mode 100644 build/classes/Salary$5.class
+ create mode 100644 build/classes/Salary$6.class
+ create mode 100644 build/classes/Salary$7.class
+ create mode 100644 build/classes/Salary$8.class
+ create mode 100644 build/classes/Salary$9.class
+ create mode 100644 build/classes/Salary.form
+ create mode 100644 build/classes/profile.png
+ create mode 100644 dist/EMS31.jar
+ create mode 100644 dist/README.TXT
+ create mode 100644 dist/lib/AbsoluteLayout.jar
+ create mode 100644 lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar
+ create mode 100644 lib/absolutelayout/AbsoluteLayout.jar
+ create mode 100644 lib/mysql-connector-java-5.1.47.jar
+ create mode 100644 lib/nblibraries.properties
+ create mode 100644 manifest.mf
+ create mode 100644 nbproject/private/config.properties
+ create mode 100644 nbproject/private/private.properties
+ create mode 100644 nbproject/private/private.xml
+ create mode 100644 nbproject/project.properties
+ create mode 100644 nbproject/project.xml
+ create mode 100644 src/Admin_Login.form
+ create mode 100644 src/Employee.form
+ create mode 100644 src/Employee.java
+ create mode 100644 src/Job_Dept.form
+ create mode 100644 src/Job_Dept.java
+ create mode 100644 src/Payroll.form
+ create mode 100644 src/Payroll.java
+ create mode 100644 src/Salary.form
+ create mode 100644 src/Salary.java
+ create mode 100644 src/profile.png
+
+
+PS D:\NetBeansProjects\EMS31> git push -u origin main
+
+Enumerating objects: 91, done.
+Counting objects: 100% (91/91), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (89/89), done.
+Writing objects: 100% (91/91), 1.06 MiB | 331.00 KiB/s, done.
+Total 91 (delta 50), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (50/50), done.
+To https://github.com/NBikashChakma/EMS-Swing.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+
+********************DATABASE EXPORT Mysql FOLDER UPLOAD****************
+
+PS D:\NetBeansProjects\EMS31> git add .
+
+PS D:\NetBeansProjects\EMS31> git commit -m "second commit"
+
+[main f1bdc6e] second commit
+ 4 files changed, 225 insertions(+)
+ create mode 100644 ems31-mysql/ems31_employee.sql
+ create mode 100644 ems31-mysql/ems31_job_department.sql
+ create mode 100644 ems31-mysql/ems31_payroll.sql
+ create mode 100644 ems31-mysql/ems31_salary.sql
+
+PS D:\NetBeansProjects\EMS31> git push
+
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (7/7), 2.34 KiB | 2.34 MiB/s, done.
+Total 7 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (4/4), completed with 1 local object.
+To https://github.com/NBikashChakma/EMS-Swing.git
+   f99547a..f1bdc6e  main -> main

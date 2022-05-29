@@ -1,4 +1,4 @@
-**********Windows Terminal***********
+**********Windows Terminal*********** & Github Repository Command HTTPS Follow **********************
 
 PS C:\Users> cd D:\NetBeansProjects\EMS31\
 

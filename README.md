@@ -7,7 +7,12 @@ User Name: admin
 
 Password: pass
 
-Database MYSQL SCHEMAS : ems31
+------------------------
+Database MYSQL SCHEMAS 
+-------------------------
+create database ems31;
+
+show databases;
 
 use ems31;
 

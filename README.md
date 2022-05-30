@@ -1,5 +1,5 @@
 # EMS-Swing
-Employee Management System (EMS) - Java with Ant - Java Application
+Employee Management System (EMS) - Java with Ant - Java Application / JFrame Form
 
 1st Run Admin_Login.java
 
